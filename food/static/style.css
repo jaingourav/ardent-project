@@ -1,0 +1,84 @@
+h1
+{
+    color: pink;
+}
+#head{
+    width: auto;
+    height: 150px;
+    background-color: rgb(92, 122, 11);
+
+}
+#body{
+    width: auto;
+    height: 350px;
+    background-color:green;
+}
+#foot{
+    width: auto;
+    height: 150px;
+    background-color:yellow;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    background-color: green;
+}
+.header{
+    height:50px;
+    width:100%;
+    background-color:skyblue;
+}
+.phone{
+    height:50px;
+    width: 33.33%;
+   
+    float: left;
+}
+.phone a{
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+.college{
+    height: 50px;
+    width:33.33%;
+    
+    float: left;
+}
+.college span{
+    color: white;
+    font-size: 25px;
+    line-height: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+.social {
+    height: 50px;
+    width: 33.34%;
+    
+    float: left;
+}
+.social ul{
+    text-align: center;
+}
+.social ul li{
+    display: inline-block;
+}
+.social ul li a{
+    color:black;
+    margin-left:5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.fa-facebook{
+    color:white;
+    background-color:blue;
+    padding:5px 8px;
+    border-radius:5px;
+}
